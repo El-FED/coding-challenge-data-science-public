@@ -1,2 +1,6 @@
 pandas
 sqlite3
+prophet
+seaborn
+numpy
+matplotlib
